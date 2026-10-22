@@ -1,6 +1,6 @@
 # MAPPO — Air-Quality Forecasting & Low-Pollution Routing
 
-Backend for **MAPPO**, a citizen-science mobile app that shows urban air pollution, forecasts NO₂ levels and suggests walking or driving routes that minimise exposure. Built as a team project for the *Advanced Engineering Project* (PAE) course at UPC · ETSETB (2022), in collaboration with environmental-sensor data from shared e-scooters.
+Backend for **MAPPO**, a citizen-science mobile app that shows urban air pollution, forecasts NO₂ levels and suggests walking or driving routes that minimise exposure. Built as a team project for the *Advanced Engineering Project* (PAE) course at UPC · ETSETB (2022).
 
 This repository contains the parts I worked on: the **forecasting models**, the **pollution-aware routing engine** and the **REST API server** that integrates them.
 
